@@ -39,7 +39,7 @@ button:hover {
 .form{
     background-color: white;
     position: absolute;
-    left: 42rem;
+    left: 32rem;
     top: 20rem;
     margin-right: -50%;
     transform: translate(-50%, -50%);
